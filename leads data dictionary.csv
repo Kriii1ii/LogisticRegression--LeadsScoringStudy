@@ -1,4 +1,3 @@
-,,,,,,
 ,Variables,Description,,,,
 ,Prospect ID,A unique ID with which the customer is identified.,,,,
 ,Lead Number,A lead number assigned to each lead procured.,,,,
@@ -31,9 +30,10 @@
 ,Lead Profile,A lead level assigned to each customer based on their profile.,,,,
 ,City,The city of the customer.,,,,
 ,Asymmetrique Activity Index,An index and score assigned to each customer based on their activity and their profile,,,,
-,Asymmetrique Profile Index,,,,,
-,Asymmetrique Activity Score,,,,,
-,Asymmetrique Profile Score,,,,,
+,Asymmetrique Profile Index,An index and score assigned to each customer based on their activity and their profile,,,,
+,Asymmetrique Activity Score,An index and score assigned to each customer based on their activity and their profile,,,,
+,Asymmetrique Profile Score,An index and score assigned to each customer based on their activity and their profile,,,,
 ,I agree to pay the amount through cheque,Indicates whether the customer has agreed to pay the amount through cheque or not.,,,,
 ,a free copy of Mastering The Interview,Indicates whether the customer wants a free copy of 'Mastering the Interview' or not.,,,,
 ,Last Notable Activity,The last notable acitivity performed by the student.,,,,
+
